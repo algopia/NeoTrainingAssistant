@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# -*- coding: utf-8 -*-
 
 # get cropped images
 flag_save_crop = True
